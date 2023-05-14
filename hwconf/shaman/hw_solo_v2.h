@@ -14,11 +14,11 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-#ifndef HW_SOLO_H_
-#define HW_SOLO_H_
+#ifndef HW_SOLO_V2_H_
+#define HW_SOLO_V2_H_
 
-#define SOLO_IS_V1
+#define SOLO_IS_V2
 
 #include "hw_solo_core.h"
 
-#endif /* HW_SOLO_H_ */
+#endif /* HW_SOLO_V2_H_ */
